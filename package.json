@@ -1,0 +1,20 @@
+{
+    "name": "electronjstest",
+    "version": "1.0.0",
+    "description": "Jugando con el framework electron para el proyecto de transgas",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CristianPumaES6/ElectronJSTest.git"
+    },
+    "author": "CristianPumaES6",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/CristianPumaES6/ElectronJSTest/issues"
+    },
+    "homepage": "https://github.com/CristianPumaES6/ElectronJSTest#readme"
+}
